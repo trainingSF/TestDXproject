@@ -26,6 +26,10 @@
         <visible>true</visible>
     </applicationVisibilities>
     <classAccesses>
+        <apexClass>MilitaryMap</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>TestDX</apexClass>
         <enabled>true</enabled>
     </classAccesses>
@@ -112,6 +116,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Account.Fax</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.Geolocation__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>

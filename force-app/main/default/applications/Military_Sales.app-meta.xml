@@ -37,6 +37,8 @@
         <profile>Admin</profile>
     </profileActionOverrides>
     <tabs>standard-Account</tabs>
+    <tabs>standard-Contact</tabs>
+    <tabs>standard-File</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>Military_Sales_UtilityBar</utilityBar>
 </CustomApplication>
