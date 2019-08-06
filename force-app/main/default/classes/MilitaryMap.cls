@@ -18,7 +18,7 @@ public with sharing class MilitaryMap {
     @future(callout=true)
     static private void geocodeAddress(id accountId) {
         // Key        for Google Maps Geocoding API
-        String geocodingKey = '[AIzaSyCCkHD60Dx7-w73eEHy8tPYu2_IoFdTXjk]';
+        String geocodingKey = '[__Your_API_key_from_Google__]';
         // get        the passed in address
         Account geoAccount = [
                 SELECT Geolocation__c, Address__c
