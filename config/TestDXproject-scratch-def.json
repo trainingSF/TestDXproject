@@ -1,0 +1,13 @@
+{
+  "orgName": "TestDXproject",
+  "edition": "Developer",
+  "features": [
+    "API",
+    "AuthorApex",
+    "Communities"
+  ],
+  "orgPreferences": {
+    "enabled": [],
+    "disabled": []
+  }
+}
